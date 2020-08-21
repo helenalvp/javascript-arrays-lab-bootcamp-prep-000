@@ -6,5 +6,5 @@ function destructivelyAppendKitten(kittens) {
 }
 
 function destructivelyPrependKitten() {
-  
+
 }
